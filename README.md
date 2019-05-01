@@ -2,6 +2,12 @@
 
 #### 1. 基于zookeeper的临时节点
 
+##### 1.1 实现流程图
+
+![](https://github.com/zybotian/zookeeper-lock/tree/master/imgs/zookeeper_lock_1.png)
+
+##### 1.2 实现代码
+
 ```text
     // 加锁：尝试加锁，失败时等待求他节点释放锁时再次抢锁
     @Override
@@ -68,6 +74,12 @@
 ```
 
 #### 2. 基于zookeeper的临时顺序节点
+
+##### 2.1 实现流程图
+
+![](https://github.com/zybotian/zookeeper-lock/tree/master/imgs/zookeeper_lock_1.png)
+
+##### 2.2 实现代码
 
 ```text
     // 非阻塞，尝试获取锁
