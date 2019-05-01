@@ -4,7 +4,7 @@
 
 ##### 1.1 实现流程图
 
-![](https://github.com/zybotian/zookeeper-lock/tree/master/imgs/zookeeper_lock_1.png)
+![](https://github.com/zybotian/zookeeper-lock/blob/master/imgs/zookeeper_lock_1.png)
 
 ##### 1.2 实现代码
 
@@ -77,7 +77,7 @@
 
 ##### 2.1 实现流程图
 
-![](https://github.com/zybotian/zookeeper-lock/tree/master/imgs/zookeeper_lock_1.png)
+![](https://github.com/zybotian/zookeeper-lock/blob/master/imgs/zookeeper_lock_2.png)
 
 ##### 2.2 实现代码
 
