@@ -35,6 +35,6 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>common-basic-service</finalName>
+        <finalName>zookeeper-lock</finalName>
     </build>
 </project>
